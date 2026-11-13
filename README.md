@@ -33,8 +33,10 @@ The Arduino controls an SG90 servo motor, which physically presses the laptop's 
 - NumPy
 - PyAutoGUI
 - PySerial
+- C++
 - Arduino IDE
 - VS Code
+  
 
 ### Hardware
 - Arduino Uno R3
